@@ -1,6 +1,6 @@
 # GitMoji Table
 
-| Gitmoji Code                | Emoji | Description                                                   |
+| Gitmoji                     | Emoji | Description                                                   |
 | --------------------------- | ----- | ------------------------------------------------------------- |
 | :art:                       | 🎨    | Improve structure / format of the code.                       |
 | :zap:                       | ⚡️   | Improve performance.                                          |
