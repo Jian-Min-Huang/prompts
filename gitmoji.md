@@ -1,77 +1,77 @@
 # GitMoji Table
 
-| Description                                                   | Gitmoji                     |
-| ------------------------------------------------------------- | --------------------------- |
-| Improve structure / format of the code.                       | :art:                       |
-| Improve performance.                                          | :zap:                       |
-| Remove code or files.                                         | :fire:                      |
-| Fix a bug.                                                    | :bug:                       |
-| Critical hotfix.                                              | :ambulance:                 |
-| Introduce new features.                                       | :sparkles:                  |
-| Add or update documentation.                                  | :memo:                      |
-| Deploy stuff.                                                 | :rocket:                    |
-| Add or update the UI and style files.                         | :lipstick:                  |
-| Begin a project.                                              | :tada:                      |
-| Add, update, or pass tests.                                   | :white_check_mark:          |
-| Fix security or privacy issues.                               | :lock:                      |
-| Add or update secrets.                                        | :closed_lock_with_key:      |
-| Release / Version tags.                                       | :bookmark:                  |
-| Fix compiler / linter warnings.                               | :rotating_light:            |
-| Work in progress.                                             | :construction:              |
-| Fix CI Build.                                                 | :green_heart:               |
-| Downgrade dependencies.                                       | :arrow_down:                |
-| Upgrade dependencies.                                         | :arrow_up:                  |
-| Pin dependencies to specific versions.                        | :pushpin:                   |
-| Add or update CI build system.                                | :construction_worker:       |
-| Add or update analytics or track code.                        | :chart_with_upwards_trend:  |
-| Refactor code.                                                | :recycle:                   |
-| Add a dependency.                                             | :heavy_plus_sign:           |
-| Remove a dependency.                                          | :heavy_minus_sign:          |
-| Add or update configuration files.                            | :wrench:                    |
-| Add or update development scripts.                            | :hammer:                    |
-| Internationalization and localization.                        | :globe_with_meridians:      |
-| Fix typos.                                                    | :pencil2:                   |
-| Write bad code that needs to be improved.                     | :poop:                      |
-| Revert changes.                                               | :rewind:                    |
-| Merge branches.                                               | :twisted_rightwards_arrows: |
-| Add or update compiled files or packages.                     | :package:                   |
-| Update code due to external API changes.                      | :alien:                     |
-| Move or rename resources (e.g.: files, paths, routes).        | :truck:                     |
-| Add or update license.                                        | :page_facing_up:            |
-| Introduce breaking changes.                                   | :boom:                      |
-| Add or update assets.                                         | :bento:                     |
-| Improve accessibility.                                        | :wheelchair:                |
-| Add or update comments in source code.                        | :bulb:                      |
-| Write code drunkenly.                                         | :beers:                     |
-| Add or update text and literals.                              | :speech_balloon:            |
-| Perform database related changes.                             | :card_file_box:             |
-| Add or update logs.                                           | :loud_sound:                |
-| Remove logs.                                                  | :mute:                      |
-| Add or update contributor(s).                                 | :busts_in_silhouette:       |
-| Improve user experience / usability.                          | :children_crossing:         |
-| Make architectural changes.                                   | :building_construction:     |
-| Work on responsive design.                                    | :iphone:                    |
-| Mock things.                                                  | :clown_face:                |
-| Add or update an easter egg.                                  | :egg:                       |
-| Add or update a .gitignore file.                              | :see_no_evil:               |
-| Add or update snapshots.                                      | :camera_flash:              |
-| Perform experiments.                                          | :alembic:                   |
-| Improve SEO.                                                  | :mag:                       |
-| Add or update types.                                          | :label:                     |
-| Add or update seed files.                                     | :seedling:                  |
-| Add, update, or remove feature flags.                         | :triangular_flag_on_post:   |
-| Catch errors.                                                 | :goal_net:                  |
-| Add or update animations and transitions.                     | :dizzy:                     |
-| Deprecate code that needs to be cleaned up.                   | :wastebasket:               |
-| Work on code related to authorization, roles and permissions. | :passport_control:          |
-| Simple fix for a non-critical issue.                          | :adhesive_bandage:          |
-| Data exploration/inspection.                                  | :monocle_face:              |
-| Remove dead code.                                             | :coffin:                    |
-| Add a failing test.                                           | :test_tube:                 |
-| Add or update business logic.                                 | :necktie:                   |
-| Add or update healthcheck.                                    | :stethoscope:               |
-| Infrastructure related changes.                               | :bricks:                    |
-| Improve developer experience.                                 | :technologist:              |
-| Add sponsorships or money related infrastructure.             | :money_with_wings:          |
-| Add or update code related to multithreading or concurrency.  | :thread:                    |
-| Add or update code related to validation.                     | :safety_vest:               |
+| Gitmoji Code                | Emoji | Description                                                   |
+| --------------------------- | ----- | ------------------------------------------------------------- |
+| :art:                       | 🎨    | Improve structure / format of the code.                       |
+| :zap:                       | ⚡️   | Improve performance.                                          |
+| :fire:                      | 🔥    | Remove code or files.                                         |
+| :bug:                       | 🐛    | Fix a bug.                                                    |
+| :ambulance:                 | 🚑️   | Critical hotfix.                                              |
+| :sparkles:                  | ✨    | Introduce new features.                                       |
+| :memo:                      | 📝    | Add or update documentation.                                  |
+| :rocket:                    | 🚀    | Deploy stuff.                                                 |
+| :lipstick:                  | 💄    | Add or update the UI and style files.                         |
+| :tada:                      | 🎉    | Begin a project.                                              |
+| :white_check_mark:          | ✅    | Add, update, or pass tests.                                   |
+| :lock:                      | 🔒️   | Fix security or privacy issues.                               |
+| :closed_lock_with_key:      | 🔐    | Add or update secrets.                                        |
+| :bookmark:                  | 🔖    | Release / Version tags.                                       |
+| :rotating_light:            | 🚨    | Fix compiler / linter warnings.                               |
+| :construction:              | 🚧    | Work in progress.                                             |
+| :green_heart:               | 💚    | Fix CI Build.                                                 |
+| :arrow_down:                | ⬇️    | Downgrade dependencies.                                       |
+| :arrow_up:                  | ⬆️    | Upgrade dependencies.                                         |
+| :pushpin:                   | 📌    | Pin dependencies to specific versions.                        |
+| :construction_worker:       | 👷    | Add or update CI build system.                                |
+| :chart_with_upwards_trend:  | 📈    | Add or update analytics or track code.                        |
+| :recycle:                   | ♻️    | Refactor code.                                                |
+| :heavy_plus_sign:           | ➕    | Add a dependency.                                             |
+| :heavy_minus_sign:          | ➖    | Remove a dependency.                                          |
+| :wrench:                    | 🔧    | Add or update configuration files.                            |
+| :hammer:                    | 🔨    | Add or update development scripts.                            |
+| :globe_with_meridians:      | 🌐    | Internationalization and localization.                        |
+| :pencil2:                   | ✏️    | Fix typos.                                                    |
+| :poop:                      | 💩    | Write bad code that needs to be improved.                     |
+| :rewind:                    | ⏪️   | Revert changes.                                               |
+| :twisted_rightwards_arrows: | 🔀    | Merge branches.                                               |
+| :package:                   | 📦️   | Add or update compiled files or packages.                     |
+| :alien:                     | 👽️   | Update code due to external API changes.                      |
+| :truck:                     | 🚚    | Move or rename resources (e.g.: files, paths, routes).        |
+| :page_facing_up:            | 📄    | Add or update license.                                        |
+| :boom:                      | 💥    | Introduce breaking changes.                                   |
+| :bento:                     | 🍱    | Add or update assets.                                         |
+| :wheelchair:                | ♿️   | Improve accessibility.                                        |
+| :bulb:                      | 💡    | Add or update comments in source code.                        |
+| :beers:                     | 🍻    | Write code drunkenly.                                         |
+| :speech_balloon:            | 💬    | Add or update text and literals.                              |
+| :card_file_box:             | 🗃️    | Perform database related changes.                             |
+| :loud_sound:                | 🔊    | Add or update logs.                                           |
+| :mute:                      | 🔇    | Remove logs.                                                  |
+| :busts_in_silhouette:       | 👥    | Add or update contributor(s).                                 |
+| :children_crossing:         | 🚸    | Improve user experience / usability.                          |
+| :building_construction:     | 🏗️    | Make architectural changes.                                   |
+| :iphone:                    | 📱    | Work on responsive design.                                    |
+| :clown_face:                | 🤡    | Mock things.                                                  |
+| :egg:                       | 🥚    | Add or update an easter egg.                                  |
+| :see_no_evil:               | 🙈    | Add or update a .gitignore file.                              |
+| :camera_flash:              | 📸    | Add or update snapshots.                                      |
+| :alembic:                   | ⚗️    | Perform experiments.                                          |
+| :mag:                       | 🔍️   | Improve SEO.                                                  |
+| :label:                     | 🏷️    | Add or update types.                                          |
+| :seedling:                  | 🌱    | Add or update seed files.                                     |
+| :triangular_flag_on_post:   | 🚩    | Add, update, or remove feature flags.                         |
+| :goal_net:                  | 🥅    | Catch errors.                                                 |
+| :dizzy:                     | 💫    | Add or update animations and transitions.                     |
+| :wastebasket:               | 🗑️    | Deprecate code that needs to be cleaned up.                   |
+| :passport_control:          | 🛂    | Work on code related to authorization, roles and permissions. |
+| :adhesive_bandage:          | 🩹    | Simple fix for a non-critical issue.                          |
+| :monocle_face:              | 🧐    | Data exploration/inspection.                                  |
+| :coffin:                    | ⚰️    | Remove dead code.                                             |
+| :test_tube:                 | 🧪    | Add a failing test.                                           |
+| :necktie:                   | 👔    | Add or update business logic.                                 |
+| :stethoscope:               | 🩺    | Add or update healthcheck.                                    |
+| :bricks:                    | 🧱    | Infrastructure related changes.                               |
+| :technologist:              | 🧑‍💻    | Improve developer experience.                                 |
+| :money_with_wings:          | 💸    | Add sponsorships or money related infrastructure.             |
+| :thread:                    | 🧵    | Add or update code related to multithreading or concurrency.  |
+| :safety_vest:               | 🦺    | Add or update code related to validation.                     |
