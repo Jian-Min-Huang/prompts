@@ -1,9 +1,9 @@
 # Create Spring Boot Project Instructions
 
-1. Create a new directory for your project
+1. Make sure the Java 21 SDK is installed on your system. Run this command and check the version of Java.
 
    ```bash
-   mkdir -p ~/demo-web && cd ~/demo-web
+   java -version
    ```
 
 2. Execute this command to download a Spring Boot project template
@@ -12,7 +12,7 @@
    curl https://start.spring.io/starter.zip \
      -d applicationName=DemoWebApplication \
      -d artifactId=demo-web \
-     -d dependencies=web \
+     -d dependencies=web,data-jpa,h2,postgresql,lombok \
      -d description="Demo Web Application" \
      -d javaVersion=21 \
      -d name=demo-web \
@@ -32,12 +32,6 @@
 
    ```bash
    rm -f *.zip
-   ```
-
-5. Open the project with Visual Studio Code
-
-   ```bash
-   code-insiders .
    ```
 
 Let's do this step by step.
